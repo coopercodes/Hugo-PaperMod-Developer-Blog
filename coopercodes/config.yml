@@ -1,0 +1,5 @@
+baseURL: "https://coopercodes.github.io"
+languageCode: en-us
+title: Cooper Codes Blog
+paginate: 5
+theme: PaperMod
