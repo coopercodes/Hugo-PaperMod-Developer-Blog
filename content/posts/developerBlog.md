@@ -37,7 +37,7 @@ editPost:
 
 #### Code block with Hugo's internal highlight shortcode
 
-```
+```html
     <!DOCTYPE html>
         <html lang="en">
         <head>
