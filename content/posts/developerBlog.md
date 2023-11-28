@@ -1,5 +1,7 @@
 ---
 title: "My 1st post"
+date: "2019-03-11"
+description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 # weight: 1
 # aliases: ["/first"]
 tags: ["Hugo", "Web Development"]
@@ -12,7 +14,6 @@ hidemeta: false
 comments: false
 description: "Description"
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: false # to disable highlightjs
 disableShare: true
 hideSummary: false
 searchHidden: true
@@ -36,7 +37,7 @@ editPost:
 
 #### Code block with Hugo's internal highlight shortcode
 
-```html {linenos=true}
+```html
     <!DOCTYPE html>
         <html lang="en">
         <head>
