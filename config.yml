@@ -1,4 +1,4 @@
-baseURL: "https://blog.coopercodes.com/"
+baseURL: "https://coopercodeshasablog.com/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
@@ -73,14 +73,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "What's going on, It's Cooper Codes!\U0001F44B"
+    Content: You probably know me from my YouTube channel Cooper Codes. On this blog I discuss a bunch of things related to technology, feel free to look around!
 
   socialIcons:
+    - name: youtube
+      url: "https://youtube.com/coopercodes"
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
       url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
     - name: github
       url: "https://github.com/"
 
