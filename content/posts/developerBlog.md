@@ -1,6 +1,5 @@
 ---
 title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["Hugo", "Web Development"]
@@ -13,9 +12,8 @@ hidemeta: false
 comments: false
 description: "Description"
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to disable highlightjs
 disableShare: true
-disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
@@ -36,4 +34,18 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
+#### Code block with Hugo's internal highlight shortcode
 
+{{< highlight html >}}
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Example HTML5 Document</title>
+</head>
+<body>
+<p>Test</p>
+</body>
+</html>
+{{< /highlight >}}
