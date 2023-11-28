@@ -36,8 +36,7 @@ editPost:
 
 #### Code block with Hugo's internal highlight shortcode
 
-{{< highlight html >}}
-
+```html {linenos=true}
 <!doctype html>
 <html lang="en">
 <head>
@@ -48,4 +47,4 @@ editPost:
 <p>Test</p>
 </body>
 </html>
-{{< /highlight >}}
+```
