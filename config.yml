@@ -50,7 +50,7 @@ params:
 
   label:
     text: "Cooper Codes Blog"
-    icon: /favicon.png
+    icon: /favicon-32x32.png
     iconHeight: 25
 
   # home-info mode
