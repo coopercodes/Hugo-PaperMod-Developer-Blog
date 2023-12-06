@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: http://coopercodes.github.io/sitemap.xml
