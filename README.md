@@ -17,4 +17,4 @@ This repository serves as a starting point for creating your own developer blog 
 2. **Clone your forked repository.**
 
    ```bash
-   git clone https://github.com/your-username/developer-blog-template.git
+   git clone https://github.com/coopercodes/Hugo-PaperMod-Developer-Blog.git
